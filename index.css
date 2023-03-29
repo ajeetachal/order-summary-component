@@ -41,6 +41,7 @@
     }
 
     h2{
+        margin-top: 0.5rem; 
         font-weight: 600;
     }
     div.order p{
@@ -53,7 +54,7 @@
     }
     #order_details{
         padding: 0.5rem 0rem 0.5rem 0rem;
-        margin-top: 1rem;
+        margin-top: 1.3rem;
         height: auto;
         width: 100%;
         background-color:  hsl(225, 100%, 98%) ;
@@ -63,7 +64,7 @@
         align-items: center;
     }
     #details{
-        line-height: 20px;
+        line-height: 25px;
     }
 
     div#price p{
@@ -81,8 +82,8 @@
         background-color: hsl(245, 75%, 52%);
         border-radius: 12px;
         color:  hsl(225, 100%, 94%);
-        padding: 0.7rem;
-        margin-top: 1.8rem;
+        padding: 0.9rem;
+        margin-top: 1.9rem;
         width: 100%;
         font-weight: 700;
         margin-bottom: 1rem;
